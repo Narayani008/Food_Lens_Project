@@ -1,0 +1,28 @@
+# Frontend
+streamlit
+
+# Backend & API
+fastapi
+uvicorn
+flask
+requests
+
+# Database
+pymongo
+
+# AI & Image Processing
+opencv-python
+numpy
+pillow
+
+# Data Analysis & Visualization
+pandas
+
+# OpenAI Integration
+openai
+
+# Environment Variables
+python-dotenv
+
+# Utilities
+python-multipart
